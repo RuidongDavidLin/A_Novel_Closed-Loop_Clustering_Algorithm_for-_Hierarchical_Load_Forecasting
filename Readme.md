@@ -19,4 +19,9 @@
 - `Metrics_1 / 2 / 3.ipynb`: Calculate the results
 - `\\Process_1 / 2 / 3`: Experiments results are saved in these folders
 
+### The Display of Trim & Merge Mechanism
+
+![Trim & Merge](Trim%20&%20Merge.gif)
+
+
 ### if you have any question, please feel free to contace [ME](linrd@connect.hku.hk)
