@@ -21,7 +21,7 @@
 
 ### The Display of Trim & Merge Mechanism
 
-![Trim & Merge](https://github.com/RuidongDavidLin/A_Novel_Closed-Loop_Clustering_Algorithm_for-_Hierarchical_Load_Forecasting/blob/main/Trim%20&%20Merge.gif)
+![Trim & Merge](Trim%20&%20Merge.gif)
 
 
 ### if you have any question, please feel free to contace [ME](linrd@connect.hku.hk)
